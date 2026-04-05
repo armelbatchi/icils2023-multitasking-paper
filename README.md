@@ -1,5 +1,7 @@
 # Paper B — Academic-Media Multitasking and Digital Performance
 
+[![DOI](https://zenodo.org/badge/1201820421.svg)](https://doi.org/10.5281/zenodo.19426981)
+
 R code for the ICILS 2023 analysis pipeline and the TIMSS 2023 secondary analyses used in this project.
 
 ## Repository structure
